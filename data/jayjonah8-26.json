@@ -1,0 +1,9 @@
+{
+  "contest": "Livepeer contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "2",
+  "title": "no check that DEFAULT_ADMIN_ROLE is not the contract itself in L1Escrow.sol",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2022-01-livepeer-findings/issues/26"
+}
