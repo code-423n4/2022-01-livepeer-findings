@@ -1,0 +1,9 @@
+{
+  "contest": "Livepeer contest",
+  "handle": "solgryn",
+  "address": "0xc1B412F45a9702cc401259C6e3D9ef68d7e95575",
+  "risk": "G",
+  "title": "l1CirculatingSupply function should be declared external to save gas",
+  "issueId": 34,
+  "issueUrl": "https://github.com/code-423n4/2022-01-livepeer-findings/issues/34"
+}
