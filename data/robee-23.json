@@ -1,0 +1,9 @@
+{
+  "contest": "Livepeer contest",
+  "handle": "robee",
+  "address": "0x8b8f9A972B19A26287b28162e49787a1f3ec5A32",
+  "risk": "G",
+  "title": "The following require messages are of length more than 32 and we think are short enough to short them into exactly 32 characters such that it will be placed in one slot of memory and the require  function will cost less gas.  The list:           Solidity file: L2Migrator.sol, In line 267, Require message length to shorten: 36, The message: L2Migrator#claimStake: INVALID_PROOF         Solidity file: L2Migrator.sol, In line 272, Require message length to shorten: 39, The message: L2Migrator#claimStake: ALREADY_MIGRATED         Solidity file: DelegatorPool.sol, In line 59, Require message length to shorten: 34, The message: DelegatorPool#claim: FULLY_CLAIMED",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2022-01-livepeer-findings/issues/23"
+}
