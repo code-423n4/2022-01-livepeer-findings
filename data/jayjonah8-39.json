@@ -1,0 +1,9 @@
+{
+  "contest": "Livepeer contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "3",
+  "title": "L1LPTGateway.sol does not make use of safeTransferFrom",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2022-01-livepeer-findings/issues/39"
+}
