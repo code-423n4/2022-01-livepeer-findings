@@ -1,0 +1,9 @@
+{
+  "contest": "Livepeer contest",
+  "handle": "aga7hokakological",
+  "address": "0xE41B989ce8cF92E265995A5cCcb2C5c9C2981184",
+  "risk": "1",
+  "title": "Incorrect ERC20 interface in L1Escrow.sol",
+  "issueId": 93,
+  "issueUrl": "https://github.com/code-423n4/2022-01-livepeer-findings/issues/93"
+}
