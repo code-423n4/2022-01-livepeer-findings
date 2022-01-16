@@ -1,0 +1,9 @@
+{
+  "contest": "Livepeer contest",
+  "handle": "danb",
+  "address": "0x5aDFFa8A38adc0810c1D714624F8Ce52A3a27961",
+  "risk": "1",
+  "title": "recoverSigner might return address(0)",
+  "issueId": 98,
+  "issueUrl": "https://github.com/code-423n4/2022-01-livepeer-findings/issues/98"
+}
