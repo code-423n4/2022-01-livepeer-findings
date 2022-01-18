@@ -1,0 +1,9 @@
+{
+  "contest": "Livepeer contest",
+  "handle": "Dravee",
+  "address": "0x319DCd0306908Ce08Ffa6F5e5b6B6a4ff8CCB9DE",
+  "risk": "1",
+  "title": "In `L2Migrator.sol:finalizeMigrateDelegator()`, Account `l2Addr`'s existence should be checked before call",
+  "issueId": 149,
+  "issueUrl": "https://github.com/code-423n4/2022-01-livepeer-findings/issues/149"
+}
