@@ -1,0 +1,9 @@
+{
+  "contest": "Livepeer contest",
+  "handle": "harleythedog",
+  "address": "0xB958d9FA0417E116F446D0A06D0326805Ad73Bd5",
+  "risk": "3",
+  "title": "Incorrect params in migrateETH leads to function not working",
+  "issueId": 179,
+  "issueUrl": "https://github.com/code-423n4/2022-01-livepeer-findings/issues/179"
+}
