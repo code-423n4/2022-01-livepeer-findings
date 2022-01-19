@@ -1,0 +1,9 @@
+{
+  "contest": "Livepeer contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "[WP-M0] `MINTER_ROLE` can be granted by the deployer of L2LivepeerToken and mint arbitrary amount of tokens",
+  "issueId": 193,
+  "issueUrl": "https://github.com/code-423n4/2022-01-livepeer-findings/issues/193"
+}
