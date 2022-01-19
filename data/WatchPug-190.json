@@ -1,0 +1,9 @@
+{
+  "contest": "Livepeer contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "1",
+  "title": "`DelegatorPool.sol#claim()` Inaccurate check of `claimedInitialStake < initialStake`",
+  "issueId": 190,
+  "issueUrl": "https://github.com/code-423n4/2022-01-livepeer-findings/issues/190"
+}
