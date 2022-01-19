@@ -1,0 +1,9 @@
+{
+  "contest": "Livepeer contest",
+  "handle": "harleythedog",
+  "address": "0xB958d9FA0417E116F446D0A06D0326805Ad73Bd5",
+  "risk": "2",
+  "title": "Admin can rug L2 Escrow tokens leading to reputation risk",
+  "issueId": 165,
+  "issueUrl": "https://github.com/code-423n4/2022-01-livepeer-findings/issues/165"
+}
