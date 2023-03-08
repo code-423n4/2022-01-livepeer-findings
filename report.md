@@ -1,3 +1,11 @@
+---
+sponsor: "Livepeer"
+slug: "2022-01-livepeer"
+date: "2022-02-11"
+title: "Livepeer contest"
+findings: "https://github.com/code-423n4/2022-01-livepeer-findings/issues"
+contest: 73
+---
 
 # Overview
 
